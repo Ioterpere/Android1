@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Empresa_Cliente</string>
+    <string name="action_settings">Opciones</string>
+    <string name="title_activity_cliente">Clientes</string>
+    <string name="txtNombre">Nombre</string>
+    <string name="txtNif">Nif</string>
+    <string name="txtApellidos">Apellidos</string>
+</resources>

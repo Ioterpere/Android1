@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Company_Customer</string>
+    <string name="action_settings">Options</string>
+    <string name="title_activity_cliente">Customers</string>
+    <string name="txtNombre" >Name</string>
+    <string name="checkBox" translatable="false">Vip</string>
+    <string name="txtNif" >Nif</string>
+    <string name="txtApellidos" >Surname</string>
+</resources>
